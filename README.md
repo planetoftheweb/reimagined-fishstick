@@ -1,4 +1,4 @@
-# Stanford GitHub Class
+# Stanford GitHub
 
 A sample **project** for my Stanford.
 
